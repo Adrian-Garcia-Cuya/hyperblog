@@ -1,0 +1,3 @@
+Hola, esta es mi practica en git y me parece interesante.
+
+Espero las cosas salgan bien.
