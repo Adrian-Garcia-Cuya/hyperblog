@@ -3,4 +3,12 @@ Esta es la historia Freddu Vega.
 Freddy vega tiene 33 años y nación en Colimbia,
 viviendo en todo el mundo.            
 
+<<<<<<< HEAD
 Mañana nos enfocaremos en su vida laboral.
+=======
+Hoy hablaremos de su historia.
+
+En camara parece alto pero la verdad no es tan alto.
+
+Hoy es el CEO de Platzi.
+>>>>>>> cabecera
